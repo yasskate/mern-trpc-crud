@@ -27,8 +27,9 @@
 
 
 ## Stack
+Typescript
 Node >v18.14
 Npm
 tRPC
-Typescript
+Mongo DB
 React powered by Vite
